@@ -1,0 +1,1126 @@
+fileFormatVersion: 2
+guid: c898828233b0557458304f05b7cedf5f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8564992062316310865
+    second: Springs_0
+  - first:
+      213: -8738691818387472709
+    second: Springs_1
+  - first:
+      213: -5222146306126070714
+    second: Springs_2
+  - first:
+      213: 4680467707491358543
+    second: Springs_3
+  - first:
+      213: -462643421658775623
+    second: Springs_4
+  - first:
+      213: -712314499934629117
+    second: Springs_5
+  - first:
+      213: 3065656218223037315
+    second: Springs_6
+  - first:
+      213: 3818982175890021991
+    second: Springs_7
+  - first:
+      213: -6270764570187212980
+    second: Springs_8
+  - first:
+      213: 885901266541826393
+    second: Springs_9
+  - first:
+      213: -9052514122776607178
+    second: Springs_10
+  - first:
+      213: 7925667024820742188
+    second: Springs_11
+  - first:
+      213: 2049722735345086311
+    second: Springs_12
+  - first:
+      213: -3266838502699879311
+    second: Springs_13
+  - first:
+      213: 6989406778322638774
+    second: Springs_14
+  - first:
+      213: 4394621232103153734
+    second: Springs_15
+  - first:
+      213: -1942295494701578973
+    second: Springs_16
+  - first:
+      213: 1858638930099402883
+    second: Springs_17
+  - first:
+      213: -4595553294625550038
+    second: Springs_18
+  - first:
+      213: -4066990622773684408
+    second: Springs_19
+  - first:
+      213: 5562479097168560874
+    second: Springs_20
+  - first:
+      213: 8054721832536044387
+    second: Springs_21
+  - first:
+      213: -7673497975042791738
+    second: Springs_22
+  - first:
+      213: -127191326780020187
+    second: Springs_23
+  - first:
+      213: -8776896188413175617
+    second: Springs_24
+  - first:
+      213: 2392151625805190177
+    second: Springs_25
+  - first:
+      213: -3644384651027385213
+    second: Springs_26
+  - first:
+      213: -1382310749779464246
+    second: Springs_27
+  - first:
+      213: 3829395564693521587
+    second: Springs_28
+  - first:
+      213: -4799350914392410978
+    second: Springs_29
+  - first:
+      213: -2737969153563614165
+    second: Springs_30
+  - first:
+      213: -3131138392993925189
+    second: Springs_31
+  - first:
+      213: -8508892639698156154
+    second: Springs_32
+  - first:
+      213: -3974674528489653702
+    second: Springs_33
+  - first:
+      213: 7409049036044855161
+    second: Springs_34
+  - first:
+      213: -810040188221014304
+    second: Springs_35
+  - first:
+      213: 946157663134309475
+    second: Springs_36
+  - first:
+      213: -2676467113374096725
+    second: Springs_37
+  - first:
+      213: -2909654783525358249
+    second: Springs_38
+  - first:
+      213: 7868133625289382320
+    second: Springs_39
+  - first:
+      213: -7841437833294546891
+    second: Springs_40
+  - first:
+      213: 2974379553891214500
+    second: Springs_41
+  - first:
+      213: 2111733228297389357
+    second: Springs_42
+  - first:
+      213: 4708361649197853470
+    second: Springs_43
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Springs_0
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1780
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fae889d3919032980800000000000000
+      internalID: -8564992062316310865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Springs_1
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 1780
+        width: 130
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbef66b371ee9b680800000000000000
+      internalID: -8738691818387472709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Springs_2
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1780
+        width: 128
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64cbc3a4a953787b0800000000000000
+      internalID: -5222146306126070714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Springs_3
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 1780
+        width: 130
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4795bfe49c54f040800000000000000
+      internalID: 4680467707491358543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Springs_4
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 1780
+        width: 134
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bf7b5a524c5499f0800000000000000
+      internalID: -462643421658775623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Springs_5
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1648
+        width: 128
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 303590f7cb95d16f0800000000000000
+      internalID: -712314499934629117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Springs_6
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 1648
+        width: 128
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38bc6a286166b8a20800000000000000
+      internalID: 3065656218223037315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Springs_7
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1647
+        width: 128
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76e197d1e00cff430800000000000000
+      internalID: 3818982175890021991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Springs_8
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 1648
+        width: 128
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c47d2ebe8d4c9f8a0800000000000000
+      internalID: -6270764570187212980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Springs_9
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 1648
+        width: 128
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9515b4a128a5b4c00800000000000000
+      internalID: 885901266541826393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Springs_10
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1516
+        width: 128
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63681bb1e520f5280800000000000000
+      internalID: -9052514122776607178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Springs_11
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 1516
+        width: 128
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c28a776ca20adfd60800000000000000
+      internalID: 7925667024820742188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Springs_12
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 1364
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76f2948c7f3127c10800000000000000
+      internalID: 2049722735345086311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Springs_13
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 1364
+        width: 128
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1743104b0bbd9a2d0800000000000000
+      internalID: -3266838502699879311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Springs_14
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 1364
+        width: 128
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b7d0a4fe6c5ff060800000000000000
+      internalID: 6989406778322638774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Springs_15
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 1364
+        width: 128
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 640e5e51ab4dcfc30800000000000000
+      internalID: 4394621232103153734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Springs_16
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 1196
+        width: 128
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 325887dc9849b05e0800000000000000
+      internalID: -1942295494701578973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Springs_17
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 1196
+        width: 128
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 388794a62463bc910800000000000000
+      internalID: 1858638930099402883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Springs_18
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 1196
+        width: 128
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a21d77770a05930c0800000000000000
+      internalID: -4595553294625550038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Springs_19
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 1196
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 847dab093952f87c0800000000000000
+      internalID: -4066990622773684408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Springs_20
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 1028
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae284418445e13d40800000000000000
+      internalID: 5562479097168560874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Springs_21
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 1028
+        width: 128
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 363f4e8b4de18cf60800000000000000
+      internalID: 8054721832536044387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Springs_22
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 1028
+        width: 128
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c625e46f32428590800000000000000
+      internalID: -7673497975042791738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Springs_23
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 1028
+        width: 128
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52a24c489202c3ef0800000000000000
+      internalID: -127191326780020187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Springs_24
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 860
+        width: 128
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb8172b2b63323680800000000000000
+      internalID: -8776896188413175617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Springs_25
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 860
+        width: 128
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 124ddf0ca31a23120800000000000000
+      internalID: 2392151625805190177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Springs_26
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 860
+        width: 128
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38470aaf77b8c6dc0800000000000000
+      internalID: -3644384651027385213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Springs_27
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 860
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acfe03662bb01dce0800000000000000
+      internalID: -1382310749779464246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Springs_28
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 661
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b483022afeb42530800000000000000
+      internalID: 3829395564693521587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Springs_29
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 661
+        width: 123
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e94b13b75c7456db0800000000000000
+      internalID: -4799350914392410978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Springs_30
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 661
+        width: 119
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b242ddbaf87c00ad0800000000000000
+      internalID: -2737969153563614165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Springs_31
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 661
+        width: 147
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb772079836fb84d0800000000000000
+      internalID: -3131138392993925189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Springs_32
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 454
+        width: 161
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6850bdae9375ae980800000000000000
+      internalID: -8508892639698156154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Springs_33
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 454
+        width: 166
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3ab497339e17d8c0800000000000000
+      internalID: -3974674528489653702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Springs_34
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 454
+        width: 171
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97767ece7da32d660800000000000000
+      internalID: 7409049036044855161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Springs_35
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 454
+        width: 175
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eebb479db822c4f0800000000000000
+      internalID: -810040188221014304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Springs_36
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 247
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36c52a4b16d612d00800000000000000
+      internalID: 946157663134309475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Springs_37
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 247
+        width: 123
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba2625647574bdad0800000000000000
+      internalID: -2676467113374096725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Springs_38
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 247
+        width: 119
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75574f0f364de97d0800000000000000
+      internalID: -2909654783525358249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Springs_39
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 247
+        width: 147
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b91ea458d9313d60800000000000000
+      internalID: 7868133625289382320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Springs_40
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 40
+        width: 161
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5387b2a16dd9d2390800000000000000
+      internalID: -7841437833294546891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Springs_41
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 40
+        width: 166
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a4eed0027e174920800000000000000
+      internalID: 2974379553891214500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Springs_42
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 40
+        width: 171
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d250e05ce226e4d10800000000000000
+      internalID: 2111733228297389357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
