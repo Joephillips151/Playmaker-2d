@@ -8,6 +8,8 @@ TagManager:
   - Enemy
   - LevelEndBar
   - FireBall
+  - Block
+  - Coin
   layers:
   - Default
   - TransparentFX
@@ -18,7 +20,7 @@ TagManager:
   - 
   - 
   - OnTop
-  - 
+  - OnBottom
   - 
   - 
   - 
@@ -42,6 +44,9 @@ TagManager:
   - 
   - 
   m_SortingLayers:
+  - name: Background
+    uniqueID: 2782157203
+    locked: 0
   - name: OnTop
     uniqueID: 2434055239
     locked: 0
