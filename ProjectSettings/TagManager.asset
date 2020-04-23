@@ -10,6 +10,10 @@ TagManager:
   - FireBall
   - Block
   - Coin
+  - Killable_Enemy
+  - PowerPotion
+  - PlayerFireball
+  - Snail Barrier
   layers:
   - Default
   - TransparentFX
