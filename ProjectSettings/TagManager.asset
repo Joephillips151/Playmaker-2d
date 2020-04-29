@@ -14,6 +14,9 @@ TagManager:
   - PowerPotion
   - PlayerFireball
   - Snail Barrier
+  - JumperBomb
+  - Crab1 Boundary
+  - Bat
   layers:
   - Default
   - TransparentFX
