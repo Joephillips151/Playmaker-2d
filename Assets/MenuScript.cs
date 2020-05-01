@@ -17,10 +17,15 @@ public class MenuScript : MonoBehaviour
         Application.Quit();
     }
 
-    public void NextLevel()
+    public void Info()
     {
+        SceneManager.LoadScene("Info");
 
     }
+    public void Menu()
+    {
+        SceneManager.LoadScene("Menu");
 
+    }
 
 }
