@@ -16039,7 +16039,7 @@ MonoBehaviour:
           tooltip: 
           showInInspector: 0
           networkSync: 0
-          value: 
+          value: Lose
         fsmObjectParams: []
         fsmVarParams: []
         fsmArrayParams: []
@@ -16050,7 +16050,7 @@ MonoBehaviour:
           showInInspector: 0
           networkSync: 0
           enumName: UnityEngine.SceneManagement.LoadSceneMode
-          intValue: 1
+          intValue: 0
         fsmFloatParams: []
         fsmIntParams:
         - useVariable: 0
@@ -16074,7 +16074,7 @@ MonoBehaviour:
         stringParams:
         - 
         - 
-        byteData: 00000000
+        byteData: 01000000
         arrayParamSizes: 
         arrayParamTypes: []
         customTypeSizes: 
